@@ -8,20 +8,26 @@ $name = ""
 
     <head>
         <script src="https://cdn.jsdelivr.net/npm/tone@14.7.77/build/Tone.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/@tonejs/midi/dist/Midi.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@tonejs/midi@2.0.27/build/Midi.js"></script>
 
         <title>The Wreck of the Edmund Fitzgerald</title>
     </head>
 
+
     <script>
         async function playMidi() {
+            await Tone.start(); // Required by Chrome autoplay policy
+
+            console.log("Audio started.");
+
+            // Load MIDI file
             const response = await fetch("/edmund.mid");
             const arrayBuffer = await response.arrayBuffer();
             const midi = new Midi(arrayBuffer);
 
             const synth = new Tone.PolySynth(Tone.Synth).toDestination();
-            await Tone.start();
 
+            // Schedule the MIDI notes
             midi.tracks.forEach(track => {
                 track.notes.forEach(note => {
                     synth.triggerAttackRelease(
@@ -31,6 +37,9 @@ $name = ""
                     );
                 });
             });
+
+            // Start playback
+            Tone.Transport.start();
         }
     </script>
 
@@ -41,7 +50,7 @@ $name = ""
 
         
         <h3>
-            <button onclick="playMidi()">Play MIDI</button><br>
+            <button onclick="playMidi()">Play MIDI</button>
             <a href="https://www.youtube.com/watch?v=FuzTkGyxkYI"> youtube </a><br>
             <a href="/edmund.mid"> midi </a><br>
         </h3>
