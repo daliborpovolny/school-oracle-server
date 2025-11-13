@@ -75,7 +75,7 @@ $name = ""
         <p>All 29 aboard perished, just 15 from safe shores.</p>
 
         
-        <h3>
+        <h3 style="background-color: gray;">
             <button onclick="playMidi()">Play MIDI</button><br>
             <a href="https://www.youtube.com/watch?v=FuzTkGyxkYI"> youtube </a><br>
             <a href="/edmund.mid"> midi </a><br>
