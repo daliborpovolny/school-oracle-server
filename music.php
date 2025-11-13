@@ -82,7 +82,7 @@ $name = ""
         </h3>
 
     <img src="https://musicnotesbox.com/media/catalog/product/g/o/gordon_lightfoot-the_wreck_of_the_edmund_fitzgerald-sheet-music-thumbnail.png"
-     style="max-width: 300px; height: auto;">
+     style="max-width: 400px; height: auto;">
 
 
     </body>
