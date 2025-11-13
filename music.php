@@ -81,7 +81,8 @@ $name = ""
             <a href="/edmund.mid"> midi </a><br>
         </h3>
 
-        <img src="https://musicnotesbox.com/media/catalog/product/g/o/gordon_lightfoot-the_wreck_of_the_edmund_fitzgerald-sheet-music-thumbnail.png">
+    <img src="https://musicnotesbox.com/media/catalog/product/g/o/gordon_lightfoot-the_wreck-of-the-edmund-fitzgerald-sheet-music-thumbnail.png"
+     style="max-width: 300px; height: auto;">
 
 
     </body>
