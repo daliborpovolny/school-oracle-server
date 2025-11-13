@@ -7,8 +7,8 @@ $name = ""
 
 
     <head>
-        <script src="https://cdn.jsdelivr.net/npm/tone"></script>
-        <script src="https://cdn.jsdelivr.net/npm/@tonejs/midi"></script>
+        <script src="https://cdn.jsdelivr.net/npm/tone@14.7.77/build/Tone.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@tonejs/midi/dist/Midi.js"></script>
 
         <title>The Wreck of the Edmund Fitzgerald</title>
     </head>
