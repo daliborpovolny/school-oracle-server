@@ -70,9 +70,13 @@ $name = ""
     </script>
 
     <body style="color:white">
-        <h1>The Wreck of the Edmund Fitzgerald</h1>
-        <p>50 years ago, on the November 10th 1975 the Edmunt Fitzgerald sank.</p>
-        <p>All 29 aboard perished, just 15 from safe shores.</p>
+    <h1>The Wreck of the Edmund Fitzgerald</h1>
+    <p>50 years ago, on the November 10th 1975 the Edmund Fitzgerald sank.</p>
+    <p>All 29 aboard perished, just 15 miles from safe shores.</p>
+    <p>The song was written and performed by Canadian singer-songwriter Gordon Lightfoot. Released in 1976, it tells the story of the ship’s tragic sinking on Lake Superior</p>
+
+
+    <img style="max-width: 200px;" src="https://upload.wikimedia.org/wikipedia/en/1/1a/WreckEdmundFitzgerald.jpg">
 
         
         <h3 style="background-color: gray;">
