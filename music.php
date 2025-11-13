@@ -4,9 +4,35 @@ $name = ""
 ?>
 
 <html>
+
+
     <head>
+        <script src="https://cdn.jsdelivr.net/npm/tone"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@tonejs/midi"></script>
+
         <title>The Wreck of the Edmund Fitzgerald</title>
     </head>
+
+    <script>
+        async function playMidi() {
+            const response = await fetch("/edmund.mid");
+            const arrayBuffer = await response.arrayBuffer();
+            const midi = new Midi(arrayBuffer);
+
+            const synth = new Tone.PolySynth(Tone.Synth).toDestination();
+            await Tone.start();
+
+            midi.tracks.forEach(track => {
+                track.notes.forEach(note => {
+                    synth.triggerAttackRelease(
+                        note.name,
+                        note.duration,
+                        note.time
+                    );
+                });
+            });
+        }
+    </script>
 
     <body>
         <h1>The Wreck of the Edmund Fitzgerald</h1>
@@ -14,7 +40,8 @@ $name = ""
         <p>All 29 aboard perished, just 15 from safe shores.</p>
 
         
-        <h3>    
+        <h3>
+        <button onclick="playMidi()">Play MIDI</button>
         <a href="https://www.youtube.com/watch?v=FuzTkGyxkYI"> youtube </a><br>
         <a href="/notes.php"> midi </a><br>
         </h3>
