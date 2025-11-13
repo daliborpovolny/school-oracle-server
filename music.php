@@ -97,7 +97,9 @@ $name = ""
         Than the Edmund Fitzgerald weighed empty
         That good ship and true was a bone to be chewed
         When the gales of November came early
+        </p>
         <br>
+        <p>
         The ship was the pride of the American side
         Coming back from some mill in Wisconsin
         As the big freighters go, it was bigger than most
@@ -106,7 +108,9 @@ $name = ""
         When they left fully loaded for Cleveland
         And later that night when the ship's bell rang
         Could it be the north wind they'd been feelin'?
+        </p>
         <br>
+        <p>
         The wind in the wires made a tattle-tale sound
         And a wave broke over the railin'
         And every man knew, as the captain did too
@@ -115,7 +119,9 @@ $name = ""
         When the gales of November came slashin'
         When afternoon came it was freezin' rain
         In the face of a hurricane west wind
+        </p>
         <br>
+        <p>
         When suppertime came the old cook came on deck sayin'
         "Fellas, it's too rough to feed ya"
         At seven P.M. a main hatchway caved in, he said
@@ -124,7 +130,9 @@ $name = ""
         And the good ship and crew was in peril
         And later that night when his lights went outta sight
         Came the wreck of the Edmund Fitzgerald
+        </p>
         <br>
+        <p>
         Does anyone know where the love of God goes
         When the waves turn the minutes to hours?
         The searchers all say they'd have made Whitefish Bay
@@ -133,7 +141,9 @@ $name = ""
         They may have broke deep and took water
         And all that remains is the faces and the names
         Of the wives and the sons and the daughters
+        </p>
         <br>
+        <p>
         Lake Huron rolls, Superior sings
         In the rooms of her ice-water mansion
         Old Michigan steams like a young man's dreams
@@ -142,7 +152,9 @@ $name = ""
         Takes in what Lake Erie can send her
         And the iron boats go as the mariners all know
         With the gales of November remembered
+        </p>
         <br>
+        <p>
         In a musty old hall in Detroit they prayed
         In the Maritime Sailors' Cathedral
         The church bell chimed till it rang twenty-nine times
