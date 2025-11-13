@@ -17,7 +17,7 @@ $name = ""
       <style>
     body {
 
-        color: while;
+        color: white;
 
       /* Path to your image */
       background-image: url(https://img09.deviantart.net/68dc/i/2007/076/a/5/the_edmund_fitzgerald_by_dureall.jpg);
@@ -69,7 +69,7 @@ $name = ""
         }
     </script>
 
-    <body>
+    <body style="color:white">
         <h1>The Wreck of the Edmund Fitzgerald</h1>
         <p>50 years ago, on the November 10th 1975 the Edmunt Fitzgerald sank.</p>
         <p>All 29 aboard perished, just 15 from safe shores.</p>
