@@ -88,82 +88,84 @@ $name = ""
             <a href="/edmund.mid"> midi </a><br>
         </h3>
 
-        <p>
-        The legend lives on from the Chippewa on down
-        Of the big lake they called Gitche Gumee
-        The lake, it is said, never gives up her dead
-        When the skies of November turn gloomy
-        With a load of iron ore twenty-six thousand tons more
-        Than the Edmund Fitzgerald weighed empty
-        That good ship and true was a bone to be chewed
-        When the gales of November came early
-        </p>
-        <br>
-        <p>
-        The ship was the pride of the American side
-        Coming back from some mill in Wisconsin
-        As the big freighters go, it was bigger than most
-        With a crew and good captain well seasoned
-        Concluding some terms with a couple of steel firms
-        When they left fully loaded for Cleveland
-        And later that night when the ship's bell rang
-        Could it be the north wind they'd been feelin'?
-        </p>
-        <br>
-        <p>
-        The wind in the wires made a tattle-tale sound
-        And a wave broke over the railin'
-        And every man knew, as the captain did too
-        'Twas the witch of November come stealin'
-        The dawn came late and the breakfast had to wait
-        When the gales of November came slashin'
-        When afternoon came it was freezin' rain
-        In the face of a hurricane west wind
-        </p>
-        <br>
-        <p>
-        When suppertime came the old cook came on deck sayin'
-        "Fellas, it's too rough to feed ya"
-        At seven P.M. a main hatchway caved in, he said
-        "Fellas, it's been good to know ya"
-        The captain wired in he had water comin' in
-        And the good ship and crew was in peril
-        And later that night when his lights went outta sight
-        Came the wreck of the Edmund Fitzgerald
-        </p>
-        <br>
-        <p>
-        Does anyone know where the love of God goes
-        When the waves turn the minutes to hours?
-        The searchers all say they'd have made Whitefish Bay
-        If they'd put fifteen more miles behind her
-        They might have split up or they might have capsized
-        They may have broke deep and took water
-        And all that remains is the faces and the names
-        Of the wives and the sons and the daughters
-        </p>
-        <br>
-        <p>
-        Lake Huron rolls, Superior sings
-        In the rooms of her ice-water mansion
-        Old Michigan steams like a young man's dreams
-        The islands and bays are for sportsmen
-        And farther below Lake Ontario
-        Takes in what Lake Erie can send her
-        And the iron boats go as the mariners all know
-        With the gales of November remembered
-        </p>
-        <br>
-        <p>
-        In a musty old hall in Detroit they prayed
-        In the Maritime Sailors' Cathedral
-        The church bell chimed till it rang twenty-nine times
-        For each man on the Edmund Fitzgerald
-        The legend lives on from the Chippewa on down
-        Of the big lake they call Gitche Gumee
-        Superior, they said, never gives up her dead
-        When the gales of November come early
-        </p>
+        <div>
+            <p>
+            The legend lives on from the Chippewa on down <br>
+            Of the big lake they called Gitche Gumee<br>
+            The lake, it is said, never gives up her dead<br>
+            When the skies of November turn gloomy<br>
+            With a load of iron ore twenty-six thousand tons more<br>
+            Than the Edmund Fitzgerald weighed empty<br>
+            That good ship and true was a bone to be chewed<br>
+            When the gales of November came early<br>
+            </p>
+            <br>
+            <p>
+            The ship was the pride of the American side<br>
+            Coming back from some mill in Wisconsin<br>
+            As the big freighters go, it was bigger than most<br>
+            With a crew and good captain well seasoned<br>
+            Concluding some terms with a couple of steel firms<br>
+            When they left fully loaded for Cleveland<br>
+            And later that night when the ship's bell rang<br>
+            Could it be the north wind they'd been feelin'?<br>
+            </p>
+            <br>
+            <p>
+            The wind in the wires made a tattle-tale sound<br>
+            And a wave broke over the railin'<br>
+            And every man knew, as the captain did too<br>
+            'Twas the witch of November come stealin'<br>
+            The dawn came late and the breakfast had to wait<br>
+            When the gales of November came slashin'<br>
+            When afternoon came it was freezin' rain<br>
+            In the face of a hurricane west wind<br>
+            </p>
+            <br>
+            <p>
+            When suppertime came the old cook came on deck sayin'<br>
+            "Fellas, it's too rough to feed ya"<br>
+            At seven P.M. a main hatchway caved in, he said<br>
+            "Fellas, it's been good to know ya"<br>
+            The captain wired in he had water comin' in<br>
+            And the good ship and crew was in peril<br>
+            And later that night when his lights went outta sight<br>
+            Came the wreck of the Edmund Fitzgerald<br>
+            </p>
+            <br>
+            <p>
+            Does anyone know where the love of God goes<br>
+            When the waves turn the minutes to hours?<br>
+            The searchers all say they'd have made Whitefish Bay<br>
+            If they'd put fifteen more miles behind her<br>
+            They might have split up or they might have capsized<br>
+            They may have broke deep and took water<br>
+            And all that remains is the faces and the names<br>
+            Of the wives and the sons and the daughters<br>
+            </p>
+            <br>
+            <p>
+            Lake Huron rolls, Superior sings<br>
+            In the rooms of her ice-water mansion<br>
+            Old Michigan steams like a young man's dreams<br>
+            The islands and bays are for sportsmen<br>
+            And farther below Lake Ontario<br>
+            Takes in what Lake Erie can send her<br>
+            And the iron boats go as the mariners all know<br>
+            With the gales of November remembered<br>
+            </p>
+            <br>
+            <p>
+            In a musty old hall in Detroit they prayed<br>
+            In the Maritime Sailors' Cathedral<br>
+            The church bell chimed till it rang twenty-nine times<br>
+            For each man on the Edmund Fitzgerald<br>
+            The legend lives on from the Chippewa on down<br>
+            Of the big lake they call Gitche Gumee<br>
+            Superior, they said, never gives up her dead<br>
+            When the gales of November come early<br>
+            </p>
+        </div>
 
     <img src="https://musicnotesbox.com/media/catalog/product/g/o/gordon_lightfoot-the_wreck_of_the_edmund_fitzgerald-sheet-music-thumbnail.png"
      style="max-width: 400px; height: auto;">
