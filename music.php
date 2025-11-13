@@ -83,9 +83,9 @@ $name = ""
 
         
         <h3 style="background-color: gray;">
-            <button onclick="playMidi()">Poslechni midi</button><br>
-            <a href="https://www.youtube.com/watch?v=FuzTkGyxkYI"> youtube </a><br>
-            <a href="/edmund.mid"> midi </a><br>
+            <button style="margin: left 30px;" onclick="playMidi()">Poslechni midi</button><br>
+            <a style="margin: left 30px;" href="https://www.youtube.com/watch?v=FuzTkGyxkYI"> youtube </a><br>
+            <a style="margin: left 30px;" href="/edmund.mid"> midi </a><br>
         </h3>
 
         <div>
