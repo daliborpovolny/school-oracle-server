@@ -50,7 +50,7 @@ $name = ""
 
         
         <h3>
-            <button onclick="playMidi()">Play MIDI</button>
+            <button onclick="playMidi()">Play MIDI</button><br>
             <a href="https://www.youtube.com/watch?v=FuzTkGyxkYI"> youtube </a><br>
             <a href="/edmund.mid"> midi </a><br>
         </h3>
