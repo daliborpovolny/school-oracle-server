@@ -14,6 +14,29 @@ $name = ""
     </head>
 
 
+      <style>
+    body {
+      /* Path to your image */
+      background-image: url(https://img09.deviantart.net/68dc/i/2007/076/a/5/the_edmund_fitzgerald_by_dureall.jpg);
+
+      /* Make it cover the entire page */
+      background-size: cover;
+
+      /* Keep it fixed while scrolling (optional) */
+      background-attachment: fixed;
+
+      /* Center the image */
+      background-position: center;
+
+      /* Don't repeat the image */
+      background-repeat: no-repeat;
+
+      /* Optional: add a fallback color */
+      background-color: #000;
+    }
+  </style>
+
+
     <script>
         async function playMidi() {
             await Tone.start(); // Required by Chrome autoplay policy
