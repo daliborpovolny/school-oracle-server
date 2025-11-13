@@ -73,14 +73,17 @@ $name = ""
     <h1>The Wreck of the Edmund Fitzgerald</h1>
     <p>50 years ago, on the November 10th 1975 the Edmund Fitzgerald sank.</p>
     <p>All 29 aboard perished, just 15 miles from safe shores.</p>
-    <p>The song was written and performed by Canadian singer-songwriter Gordon Lightfoot. Released in 1976, it tells the story of the ship’s tragic sinking on Lake Superior</p>
-
+    <p>The song was written and performed by Canadian singer-songwriter Gordon Lightfoot.</p>
+    <p>Released in 1976, it tells the story of the ship's tragic sinking on Lake Superior.</p>
+    <p>Thanks to this song millions of people from all around the world know of this tragedy.</p>
+    <p>Every year on the anniversary the bell of Edmund Fitzgerald rings 29 times, once for each crew member.</p>
+    <p>Since Gordon's death it rings 30 times</p>
 
     <img style="max-width: 200px;" src="https://upload.wikimedia.org/wikipedia/en/1/1a/WreckEdmundFitzgerald.jpg">
 
         
         <h3 style="background-color: gray;">
-            <button onclick="playMidi()">Play MIDI</button><br>
+            <button onclick="playMidi()">Poslechni midi</button><br>
             <a href="https://www.youtube.com/watch?v=FuzTkGyxkYI"> youtube </a><br>
             <a href="/edmund.mid"> midi </a><br>
         </h3>
