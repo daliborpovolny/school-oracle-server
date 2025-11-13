@@ -16,6 +16,9 @@ $name = ""
 
       <style>
     body {
+
+        color: while;
+
       /* Path to your image */
       background-image: url(https://img09.deviantart.net/68dc/i/2007/076/a/5/the_edmund_fitzgerald_by_dureall.jpg);
 
