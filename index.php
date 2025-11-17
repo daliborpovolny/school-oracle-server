@@ -16,6 +16,7 @@ $name = "hello";
         <a href="/notes.php"> Notes </a><br>
         <a href="/form.php"> Form </a><br>
         <a href="/music.php"> Music </a><br>
+        <a href="/music2.php"> Music Number Two Electric Boogaloo</a><br>
 
     </body>
 </html>
